@@ -1,6 +1,8 @@
 # Introduction
 <DOCTYPE1 html>
+  
 <header>The History of Alan Turning on Computers</header>
+
 <style>
   body{
   background-color: Gray;
